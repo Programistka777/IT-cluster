@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/FahrenheitToCelsiusConverter.iml" filepath="$PROJECT_DIR$/FahrenheitToCelsiusConverter.iml" />
-    </modules>
-  </component>
-</project>
